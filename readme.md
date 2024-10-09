@@ -1,4 +1,4 @@
-This is a collection of usefull Python Scripts, collected while learn how to code with Python. 
+This is a collection of usefull Python Scripts, collected while learn how to code with Python..
 
 
 To run function from programming_languages, it needs to be imported.
